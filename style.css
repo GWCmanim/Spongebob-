@@ -1,0 +1,59 @@
+body {
+  background-color:#00ccff; 
+  text-align: center;
+  font-family: 'Arial' , sans-serif;
+  font-size:20px;
+}
+#showImage {
+width: 100em;
+height: 30em;
+}
+
+header {
+  color:rgb(50, 50, 94);
+  width: 30em;
+  height: 10em;
+}
+
+h1{
+  text-decoration: underline;
+}
+
+img {
+  max-width: 45%;
+  border-radius: 40%;
+  border:2px solid navy;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+*{
+  margin:2px
+  padding:0px
+}
+
+main{
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 50%;
+  margin-left:50%;
+}
+
+#linkYoutube{
+  color: rgba(255, 0, 0, 0.61);
+}
+
+
+#lastSentence {
+  color: rgba(255, 0, 0, 0.61);
+} 
+
+#showImage {
+  height:300px;
+  width: 500px; 
+}
+
+ul{
+
+}
